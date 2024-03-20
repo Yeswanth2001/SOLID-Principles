@@ -10,7 +10,7 @@
 
 ### Why we need SRP? What happens if not followed?
 - End up testing the entire functionality
-- QA Team need to test the entire flow
+- Tight coupling
 - Costly Process for the Organization
 - Breaks the OCP as well
 - Maintenance overheads increase on the classes
