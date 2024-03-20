@@ -5,7 +5,7 @@
 
 ### Why we need OCP? What happens if not followed?
 - End up testing the entire functionality
-- QA Team need to test the entire flow
+- Tight coupling
 - Costly Process for the Organization
 - Breaks the Single responsibility as well
 - Maintenance overheads increase on the classes
